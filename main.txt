@@ -1,1 +1,2 @@
 membuat program penjumlahan
+membuat program pengurangan
